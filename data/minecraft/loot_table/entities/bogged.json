@@ -5,6 +5,15 @@
       "rolls": 1,
       "entries": [
         {
+          "type": "minecraft:loot_table",
+          "value": "vanilla:entities/bogged"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
           "type": "item",
           "name": "minecraft:player_head",
           "functions": [
